@@ -1,5 +1,4 @@
-# WSI Classification Test fro Whole Slide Images
-
+# WSI Labels - Tensorflow Classification Test
 
  ## Setup and Install
  - Python 3.5 & above required!
