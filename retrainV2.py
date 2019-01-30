@@ -219,8 +219,8 @@ def create_image_lists(image_dir, testing_percentage, validation_percentage):
 
 # ########################################################################
 # TODO replace this function to
-#    a) user the json structure as input
-#    b) provide an URI for an image
+#    a) use the json structure as input
+#    b) provide an URI for an image as return value
 
 def get_image_path(image_lists, label_name, index, image_dir, category):
   """"Returns a path to an image for a label at the given index.
